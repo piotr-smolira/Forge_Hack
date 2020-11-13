@@ -11,10 +11,14 @@
 [![Viewer](https://img.shields.io/badge/Viewer-v7-green.svg)](http://forge.autodesk.com/)
 
 # Local Setup
-1) git clone 
+1) git clone https://github.com/qwe0254/Forge_Hack.git
 2) cd ./Forge_Hack
 3) npm install
 4) npm start
+
+# Defect
+
+To make it easier for teammates to set it up, I will be lenient with my application security.
 
 # License
 
@@ -28,3 +32,7 @@ The [Forge Advocates](http://forge.autodesk.com) team:
 * Varun Patil [@VarunPatil578](https://twitter.com/VarunPatil578)
 * Petr Broz [@ipetrbroz](https://twitter.com/ipetrbroz)
 * Augusto Goncalves [@augustomaia](https://twitter.com/augustomaia)
+
+## Modified by
+
+* The Forge Team :)
