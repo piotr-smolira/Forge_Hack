@@ -16,6 +16,8 @@
 3) npm install
 4) npm start
 
+Simple and Easy!
+
 # Defect
 
 To make it easier for teammates to set it up, I will be lenient with my application security.
