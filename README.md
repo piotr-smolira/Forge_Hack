@@ -10,7 +10,11 @@
 [![Model-Derivative](https://img.shields.io/badge/Model%20Derivative-v2-green.svg)](http://forge.autodesk.com/)
 [![Viewer](https://img.shields.io/badge/Viewer-v7-green.svg)](http://forge.autodesk.com/)
 
-# Setup
+# Local Setup
+1) git clone 
+2) cd ./Forge_Hack
+3) npm install
+4) npm start
 
 # License
 
