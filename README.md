@@ -20,7 +20,7 @@ Simple and Easy!
 
 # Defect
 
-To make it easier for teammates to set it up, I will be lenient with my application security.
+To make it super easy to set it up, I will be lenient with my application security. (security issue will be resolved later)
 
 # License
 
