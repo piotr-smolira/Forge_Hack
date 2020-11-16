@@ -20,9 +20,9 @@
 module.exports = {
     // Set environment variables or hard-code here
     credentials: {
-        client_id: process.env.FORGE_CLIENT_ID || "A03tQ9ChlIMpjMbZy28ARVSUe3HuAkxc",
-        client_secret: process.env.FORGE_CLIENT_SECRET || "JulUVDAEnBr4xWDc",
-        callback_url: process.env.FORGE_CALLBACK_URL || "https://forgehack.herokuapp.com/api/forge/callback/oauth"
+        client_id: process.env.FORGE_CLIENT_ID,
+        client_secret: process.env.FORGE_CLIENT_SECRET,
+        callback_url: process.env.FORGE_CALLBACK_URL
     },
     scopes: {
         // Required scopes for the server-side application
